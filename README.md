@@ -4,7 +4,7 @@
   <i>Estudante de Análise e Desenvolvimento de Sistemas (ADS) na Unifor.</i>
 </p>
 
-## 🌱 Estou sempre aprendendo
+## 🌱 Sempre aprendendo
 
 - 🖥️ Java
 - 🎯 Programação Orientada a Objetos (POO)
