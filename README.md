@@ -1,37 +1,46 @@
-<h1 align="center">Hi, I'm Felipe! 👋</h1>
+<h1 align="center">Olá, sou Felipe ! 👋</h1>
+
 <p align="center">
-  <i>Systems Analysis and Development (ADS) Student at Unifor</i>
+  <i>Estudante de Análise e Desenvolvimento de Sistemas (ADS) na Unifor.</i>
 </p>
-🌱 Always Learning
-Languages & Frameworks:
 
-Java
-JavaScript, CSS
-Node.js, React, React Native
-Spring Framework
-Core Concepts:
+## 🌱 Sempre aprendendo
 
-Object-Oriented Programming (OOP)
-SQL (MySQL)
-💼 Professional Experience
-Current Position: Clinical Engineering at Unimed Fortaleza Hospital
-Roles & Responsibilities:
-Administer and configure Neovero system
-Develop custom dashboards for decision-making using SQL
-Manage user creation, services, and incident tracking
-🚀 Featured Projects
-Me Lembra: An alarm system with customizable audio and interval settings.
-Project CK: A client management system for appointments, promotions, and loyalty programs at an eyebrow design studio.
-🛠️ Tools & Environment
-IDE: Visual Studio Code (VS Code)
-📫 Get in Touch
-Email: your_email
-LinkedIn: Your LinkedIn
-📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=dark" alt="Top Languages" />
-</div>
-Thank you for visiting my profile! Let's connect and create amazing things together. 🚀
+- 🖥️ Java
+- 🎯 Programação Orientada a Objetos (POO)
+- 🗃️ MySQL
+- 🌐 JavaScript e CSS
+- 🚀 Node.js, React e React Native
+- 🌸 Framework Spring
 
-This layout provides a clean and structured view of your profile, highlighting key information while 
+## 💼 Experiência Profissional
+
+- 👷 Atualmente trabalho no Hospital Unimed Fortaleza, no setor de Engenharia Clínica.
+- 🛠️ Responsável por parametrizar o sistema Neovero, com acesso de administrador.
+- 📊 Crio Dashboards personalizados para tomada de decisões usando SQL.
+- 📝 Outras atividades incluem a criação de novos usuários, serviços e ocorrências.
+
+
+## 🛠️ Ferramentas e Ambiente
+
+- 🧰 IDE: Visual Studio Code (VS Code)
+
+## 🚀 Projetos em Destaque
+
+- 📂 [Projeto 1 - Me Lembra](link_do_projeto_1) - Sistema funciona como um alarme, onde podemos inserir um áudio personalizado para tocar. Também podemos configurar um loop, que alarma em diferentes intervalos de tempo.
+- 📂 [Projeto 2 - Projeto CK](link_do_projeto_2) - Sistema para gerenciamento de clientes, agendamentos, promoções, fidelização de clientes, de um estúdio de Design de Sobracelha..
+
+## 📫 Entre em Contato
+
+- 📧 Email: seu_email
+- 💼 LinkedIn: [Seu LinkedIn](seu_linkedin)
+
+## 📈 Estatísticas GitHub
+
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=seu_nome_de_usuario&show_icons=true&theme=dark)
+
+## 📊 Linguagens Mais Usadas
+
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=seu_nome_de_usuario&layout=compact&theme=dark)
+
+Obrigado por visitar o meu perfil! Vamos nos conectar e criar coisas incríveis juntos. 🚀
