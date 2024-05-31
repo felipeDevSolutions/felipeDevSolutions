@@ -37,8 +37,8 @@
 
 ## 📫 Get in Touch
 
-- 📧 Email: your_email
-- 💼 LinkedIn: [Your LinkedIn](your_linkedin)
+- 📧 Email: felipeejazz@gmail.com
+- 💼 LinkedIn: [Meu LinkedIn](https://www.linkedin.com/in/felipercostadeveloper/)
 
 ## 📈 GitHub Stats
 
