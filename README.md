@@ -1,29 +1,37 @@
-<h1 align="center">Hello, I'm Felipe! 👋</h1>
+<h1 align="center">Hi, I'm Felipe! 👋</h1>
 <p align="center">
-  <i>Student of Systems Analysis and Development (ADS) at Unifor.</i>
+  <i>Systems Analysis and Development (ADS) Student at Unifor</i>
 </p>
 🌱 Always Learning
-🖥️ Java
-🎯 Object-Oriented Programming (OOP)
-🗃️ MySQL
-🌐 JavaScript and CSS
-🚀 Node.js, React, and React Native
-🌸 Spring Framework
+Languages & Frameworks:
+
+Java
+JavaScript, CSS
+Node.js, React, React Native
+Spring Framework
+Core Concepts:
+
+Object-Oriented Programming (OOP)
+SQL (MySQL)
 💼 Professional Experience
-👷 Currently working at Unimed Fortaleza Hospital in the Clinical Engineering department.
-🛠️ Responsible for configuring the Neovero system with administrator access.
-📊 Create customized dashboards for decision-making using SQL.
-📝 Other activities include creating new users, services, and incidents.
-🛠️ Tools and Environment
-🧰 IDE: Visual Studio Code (VS Code)
+Current Position: Clinical Engineering at Unimed Fortaleza Hospital
+Roles & Responsibilities:
+Administer and configure Neovero system
+Develop custom dashboards for decision-making using SQL
+Manage user creation, services, and incident tracking
 🚀 Featured Projects
-📂 Project 1 - Me Lembra - This system works like an alarm where you can insert a personalized audio to play. You can also configure it to loop at different intervals.
-📂 Project 2 - Project CK - A management system for clients, appointments, promotions, and client loyalty for an eyebrow design studio.
-📫 Contact Me
-📧 Email: your_email
-💼 LinkedIn: Your LinkedIn
+Me Lembra: An alarm system with customizable audio and interval settings.
+Project CK: A client management system for appointments, promotions, and loyalty programs at an eyebrow design studio.
+🛠️ Tools & Environment
+IDE: Visual Studio Code (VS Code)
+📫 Get in Touch
+Email: your_email
+LinkedIn: Your LinkedIn
 📈 GitHub Stats
-
-📊 Top Languages
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=dark" alt="Top Languages" />
+</div>
 Thank you for visiting my profile! Let's connect and create amazing things together. 🚀
+
+This layout provides a clean and structured view of your profile, highlighting key information while 
