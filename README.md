@@ -44,7 +44,6 @@
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=felipeDevSolutions&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeDevSolutions&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
 ## 📊 Top Languages
