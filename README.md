@@ -1,46 +1,54 @@
-<h1 align="center">Olá, sou Felipe ! 👋</h1>
+<h1 align="center">Hello world, I'm Felipe! 👋</h1>
 
 <p align="center">
-  <i>Estudante de Análise e Desenvolvimento de Sistemas (ADS) na Unifor.</i>
+  <i>Software Development student at Unifor University.</i>
 </p>
 
-## 🌱 Sempre aprendendo
+<p align="center">
+  <a href="https://www.linkedin.com/in/felipercostadeveloper/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:felipeejazz@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+## 🌱 Always Learning
 
 - 🖥️ Java
-- 🎯 Programação Orientada a Objetos (POO)
+- 🎯 Object-Oriented Programming (OOP)
 - 🗃️ MySQL
-- 🌐 JavaScript e CSS
-- 🚀 Node.js, React e React Native
-- 🌸 Framework Spring
+- 🌐 JavaScript and CSS
+- 🚀 Node.js, React and React Native
+- 🌸 Spring Framework
 
-## 💼 Experiência Profissional
+## 💼  Professional Experience
 
-- 👷 Atualmente trabalho no Hospital Unimed Fortaleza, no setor de Engenharia Clínica.
-- 🛠️ Responsável por parametrizar o sistema Neovero, com acesso de administrador.
-- 📊 Crio Dashboards personalizados para tomada de decisões usando SQL.
-- 📝 Outras atividades incluem a criação de novos usuários, serviços e ocorrências.
+- 👷 Currently working at Hospital Unimed Fortaleza, in the Clinical Engineering department.
+- 🛠️ Responsible for configuring the Neovero system with administrator access.
+- 📊 Creating custom dashboards for decision-making using SQL.
+- 📝 Other responsibilities include creating new users, services and occurrences.
 
 
-## 🛠️ Ferramentas e Ambiente
+## 🛠️ Tools and Environment
 
 - 🧰 IDE: Visual Studio Code (VS Code)
 
-## 🚀 Projetos em Destaque
+## 🚀  Featured Projects
 
-- 📂 [Projeto 1 - Me Lembra](link_do_projeto_1) - Sistema funciona como um alarme, onde podemos inserir um áudio personalizado para tocar. Também podemos configurar um loop, que alarma em diferentes intervalos de tempo.
-- 📂 [Projeto 2 - Projeto CK](link_do_projeto_2) - Sistema para gerenciamento de clientes, agendamentos, promoções, fidelização de clientes, de um estúdio de Design de Sobracelha..
+- 📂 [Project 1 - Me Lembra](link_do_projeto_1) - This system functions as an alarm, allowing users to set a personalized audio to play. Users can also configure a loop that triggers the alarm at different time intervals. 
+- 📂 [Project 2 - Projeto CK](link_do_projeto_2) - This system is designed for managing clients, appointments, promotions, and customer loyalty programs for a Eyebrow Design studio. 
 
-## 📫 Entre em Contato
+## 📫 Get in Touch
 
-- 📧 Email: seu_email
-- 💼 LinkedIn: [Seu LinkedIn](seu_linkedin)
+- 📧 Email: your_email
+- 💼 LinkedIn: [Your LinkedIn](your_linkedin)
 
-## 📈 Estatísticas GitHub
+## 📈 GitHub Stats
 
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=seu_nome_de_usuario&show_icons=true&theme=dark)
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=felipeDevSolutions&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeDevSolutions&layout=compact&theme=dark" alt="Top Languages" />
+</div>
 
-## 📊 Linguagens Mais Usadas
+## 📊 Top Languages
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=seu_nome_de_usuario&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeDevSolutions&layout=compact&theme=dark)
 
-Obrigado por visitar o meu perfil! Vamos nos conectar e criar coisas incríveis juntos. 🚀
+Thanks for checking out my profile! Let's connect and build amazing things together. 🚀
